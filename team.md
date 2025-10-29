@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię: Małgorzata
-Nazwisko:Słaboń
-Ulubiona technologia:Git
+Imię:
+Nazwisko:
+Ulubiona technologia:
